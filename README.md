@@ -1,7 +1,7 @@
 
 <h1 align="center"> I'm Anurag Koushal</h1>
 
-### I'm  Mtech in Power System Engineering  (2016 Batch) 
+### I'm an Electrical Engineer with  Mtech in Power System Engineering   
 
 - A Data Science and Machine Learning Enthusiastic ( and secretly wish to be called Prophet of Data!!😁)
 - I’m currently working on :
