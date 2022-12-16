@@ -8,7 +8,7 @@
     -  Deep Learning
     -  Big Data
 
-- 2022 Goals: Learning New Skills on the field of Data Science, Big Data 
+- Goal: Learning New Skills on the field of Data Science, Big Data 
 - Fun fact: I love talking to books and if you wish to see what i am currently reading check out my instagram page on books:
 - <a href="https://instagram.com/the_silly_notebook" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_silly_notebook" height="30" width="40" /></a> the_silly_notebook
 </p>
