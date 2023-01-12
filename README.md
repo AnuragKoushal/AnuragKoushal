@@ -15,11 +15,13 @@
 <h3 align="left">Research Paper Publications:</h3>
 <p align="left">
     
-- Performance analysis of photovoltaic system under thermal conditions.
+- 1. Performance analysis of photovoltaic system under thermal conditions.
     
-- Modelling & Analysis of Adaptive Fuzzy Controller for the Fuel Cell System.
+- 2. Modelling & Analysis of Adaptive Fuzzy Controller for the Fuel Cell System.
     
-- Performance Analysis of Automatic Cleaning System for Solar PV Modules.
+- 3. Performance Analysis of Automatic Cleaning System for Solar PV Modules.
+    
+- 4. An investigation of a photovoltaic system under distinguished thermal environment conditions
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
