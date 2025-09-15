@@ -12,6 +12,13 @@
 - Goal: Learning New Skills on the field of Data Science, Big Data and GenAI
 - Fun fact: I love talking to books and if you wish to see what i am currently reading check out my instagram page on books:
 - <a href="https://instagram.com/the_silly_notebook" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_silly_notebook" height="30" width="40" /></a> the_silly_notebook
+
+<h3 align="left">📜 Professional Certifications:</h3>
+<p align="left">
+Explore my collection of certifications in Data Science, Machine Learning, Cloud, and more on this dedicated repository:<br>
+🔗 <a href="https://github.com/AnuragKoushal/Professional_Certifications" target="_blank">Professional Certifications Repository</a>
+</p>
+
 </p>
 <h3 align="left">Research Paper Publications:</h3>
 <p align="left">
