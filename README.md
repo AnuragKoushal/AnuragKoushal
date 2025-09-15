@@ -1,9 +1,7 @@
 
 <h1 align="center"> I'm Anurag Koushal</h1>
 
-### I'm an Electrical Engineer with  Mtech in Power System Engineering   
-
-- A Data Science and Machine Learning Enthusiastic ( and secretly wish to be called Data Magician !!😁)
+### A Data Science and Machine Learning Enthusiastic ( and secretly wish to be called Data Magician !!😁)
 - I’m currently working on :
     -  Gen AI
     -  Google Cloud Skills
