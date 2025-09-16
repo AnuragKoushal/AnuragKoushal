@@ -1,5 +1,8 @@
 
-<h1 align="center"> I'm Anurag Koushal</h1>
+<h1 align="center"> I'm Anurag Koushal</h1>     
+
+![Profile Views](https://komarev.com/ghpvc/?username=AnuragKoushal&label=Visitors&color=0e75b6&style=flat)
+
 
 ### A Data Science and Machine Learning Enthusiastic ( and secretly wish to be called Data Magician !!😁)
 - I’m currently working on :
